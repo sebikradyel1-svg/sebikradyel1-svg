@@ -133,18 +133,6 @@ Exploring Romanian NLP, computer vision applications, and production MLOps pipel
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebikradyel1-svg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebikradyel1-svg&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Currently Working On
 
 - 🔬 Building Romanian NLP systems for low-resource language processing
