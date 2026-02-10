@@ -98,14 +98,6 @@ class AIEngineer:
 
 ---
 
-## 📊 GitHub Stats
-
-![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebikradyel1-svg&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebikradyel1-svg&layout=compact&theme=radical)
-
----
-
 ## 🎓 Certifications
 
 - 🏆 **IBM AI Engineering Professional Certificate** (13 courses) - 2025
