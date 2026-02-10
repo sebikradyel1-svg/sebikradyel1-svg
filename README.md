@@ -159,10 +159,6 @@ I'm actively seeking **remote AI/ML Engineer positions**! Specialized in:
 
 <div align="center">
 
-### 📈 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/sebikradyel1-svg/count.svg)
-
 **⭐ Star my repositories if you find them helpful!**
 
 </div>
